@@ -1,3 +1,3 @@
 # Automotive-Model-Based-Design
-A physics-based simulation of an electric vehicle powertrain (Battery, DC Motor, Transmission, and Vehicle Body) developed in MATLAB/Simulink using Model-Based Design principles
+A physics-based simulation of an electric vehicle powertrain (Battery, DC Motor, Transmission, and Vehicle Body) developed in MATLAB/Simulink using Model-Based Design principles. 
 This project focuses on the derivation and implementation of a complete Electric Vehicle (EV) drivetrain. The goal is to build a high-fidelity "Plant Model" suitable for Software-in-the-Loop (SIL) testing and control strategy development. The model is built from first principles (mathematical equations) without relying on pre-made Simscape blocks, ensuring a deep understanding of the electromechanical dynamics
